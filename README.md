@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Dattajagan/Leetcode/tree/master/0018-4sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dattajagan/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2107-find-unique-binary-string](https://github.com/Dattajagan/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [3651-transformed-array](https://github.com/Dattajagan/Leetcode/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Dattajagan/Leetcode/tree/master/0018-4sum) |
+## Simulation
+|  |
+| ------- |
+| [3651-transformed-array](https://github.com/Dattajagan/Leetcode/tree/master/3651-transformed-array) |
 <!---LeetCode Topics End-->
