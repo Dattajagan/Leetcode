@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Dattajagan/Leetcode/tree/master/0058-length-of-last-word) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Dattajagan/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dattajagan/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1894-merge-strings-alternately](https://github.com/Dattajagan/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/Dattajagan/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -67,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3651-transformed-array](https://github.com/Dattajagan/Leetcode/tree/master/3651-transformed-array) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Dattajagan/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
