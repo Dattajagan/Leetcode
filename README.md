@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dattajagan/Leetcode/tree/master/0002-add-two-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Dattajagan/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/Dattajagan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dattajagan/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1236-n-th-tribonacci-number](https://github.com/Dattajagan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/Dattajagan/Leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Dattajagan/Leetcode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Dattajagan/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Dattajagan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
