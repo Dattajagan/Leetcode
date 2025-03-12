@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dattajagan/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2107-find-unique-binary-string](https://github.com/Dattajagan/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Dattajagan/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dattajagan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3651-transformed-array](https://github.com/Dattajagan/Leetcode/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dattajagan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dattajagan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Dattajagan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dattajagan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
