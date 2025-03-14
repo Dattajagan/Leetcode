@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Dattajagan/Leetcode/tree/master/0605-can-place-flowers) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dattajagan/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/Dattajagan/Leetcode/tree/master/0932-monotonic-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Dattajagan/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dattajagan/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2107-find-unique-binary-string](https://github.com/Dattajagan/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Dattajagan/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dattajagan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Dattajagan/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dattajagan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Dattajagan/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
