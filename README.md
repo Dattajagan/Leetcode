@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dattajagan/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/Dattajagan/Leetcode/tree/master/0932-monotonic-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Dattajagan/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Dattajagan/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dattajagan/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2107-find-unique-binary-string](https://github.com/Dattajagan/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Dattajagan/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dattajagan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dattajagan/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Dattajagan/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Dattajagan/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dattajagan/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/Dattajagan/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Dattajagan/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
