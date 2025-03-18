@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Dattajagan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dattajagan/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dattajagan/Leetcode/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/Dattajagan/Leetcode/tree/master/0048-rotate-image) |
 | [0238-product-of-array-except-self](https://github.com/Dattajagan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dattajagan/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Dattajagan/Leetcode/tree/master/0605-can-place-flowers) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dattajagan/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Dattajagan/Leetcode/tree/master/0048-rotate-image) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Dattajagan/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Dattajagan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Linked List
@@ -161,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dattajagan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Dattajagan/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
