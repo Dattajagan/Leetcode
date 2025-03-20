@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Dattajagan/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Dattajagan/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Dattajagan/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Dattajagan/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0058-length-of-last-word](https://github.com/Dattajagan/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Dattajagan/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Dattajagan/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -125,10 +126,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dattajagan/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Dattajagan/Leetcode/tree/master/0010-regular-expression-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dattajagan/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Dattajagan/Leetcode/tree/master/0010-regular-expression-matching) |
 | [1236-n-th-tribonacci-number](https://github.com/Dattajagan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
 |  |
