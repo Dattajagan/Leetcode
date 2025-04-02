@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Dattajagan/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Dattajagan/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Dattajagan/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Dattajagan/Leetcode/tree/master/0069-sqrtx) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Dattajagan/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Dattajagan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Linked List
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dattajagan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Dattajagan/Leetcode/tree/master/0069-sqrtx) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Dattajagan/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dattajagan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Dattajagan/Leetcode/tree/master/3643-zero-array-transformation-ii) |
