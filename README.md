@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Dattajagan/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dattajagan/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dattajagan/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dattajagan/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Dattajagan/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Dattajagan/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Dattajagan/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Dattajagan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dattajagan/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dattajagan/Leetcode/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dattajagan/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Dattajagan/Leetcode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Dattajagan/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Dattajagan/Leetcode/tree/master/0443-string-compression) |
@@ -198,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dattajagan/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dattajagan/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
