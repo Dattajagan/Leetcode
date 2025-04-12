@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Dattajagan/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Dattajagan/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dattajagan/Leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Dattajagan/Leetcode/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Dattajagan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dattajagan/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Dattajagan/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Dattajagan/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dattajagan/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Dattajagan/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Dattajagan/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Dattajagan/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dattajagan/Leetcode/tree/master/0069-sqrtx) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Dattajagan/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
