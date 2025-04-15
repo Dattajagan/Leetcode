@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1452-restaurant-growth](https://github.com/Dattajagan/Leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Dattajagan/Leetcode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/Dattajagan/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
+| [1670-patients-with-a-condition](https://github.com/Dattajagan/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Dattajagan/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Dattajagan/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/Dattajagan/Leetcode/tree/master/1811-fix-names-in-a-table) |
