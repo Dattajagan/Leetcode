@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Dattajagan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Dattajagan/Leetcode/tree/master/0039-combination-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dattajagan/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Dattajagan/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dattajagan/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dattajagan/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Dattajagan/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Dattajagan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Dattajagan/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Dattajagan/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dattajagan/Leetcode/tree/master/0049-group-anagrams) |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Dattajagan/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dattajagan/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Dattajagan/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Dattajagan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Dattajagan/Leetcode/tree/master/0049-group-anagrams) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dattajagan/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Dattajagan/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dattajagan/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Dattajagan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Dattajagan/Leetcode/tree/master/0048-rotate-image) |
 ## Bit Manipulation
 |  |
