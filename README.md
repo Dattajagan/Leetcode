@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dattajagan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Dattajagan/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Dattajagan/Leetcode/tree/master/0051-n-queens) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dattajagan/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Dattajagan/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Array
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Dattajagan/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Dattajagan/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dattajagan/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Dattajagan/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Dattajagan/Leetcode/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Dattajagan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dattajagan/Leetcode/tree/master/0283-move-zeroes) |
