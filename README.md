@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Dattajagan/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Dattajagan/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dattajagan/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Dattajagan/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Dattajagan/Leetcode/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Dattajagan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dattajagan/Leetcode/tree/master/0283-move-zeroes) |
