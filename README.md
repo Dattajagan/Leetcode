@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/Dattajagan/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Dattajagan/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Dattajagan/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Dattajagan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Dattajagan/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dattajagan/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Dattajagan/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Dattajagan/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dattajagan/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Dattajagan/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Dattajagan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Dattajagan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
 |  |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Dattajagan/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dattajagan/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Dattajagan/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Dattajagan/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
