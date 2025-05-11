@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Dattajagan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dattajagan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Dattajagan/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Dattajagan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/Dattajagan/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Dattajagan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dattajagan/Leetcode/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Dattajagan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Dattajagan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Dattajagan/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Dattajagan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dattajagan/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Dattajagan/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Dattajagan/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/Dattajagan/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Dattajagan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dattajagan/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Dattajagan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
