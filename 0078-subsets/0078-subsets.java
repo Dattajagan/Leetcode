@@ -1,21 +1,18 @@
-
 class Solution {
-    static List<List<Integer>> list;
-    static List<Integer> help;
     public List<List<Integer>> subsets(int[] nums) {
-        list=new ArrayList<>();
-        help=new ArrayList<>();
-        subset(nums,0);
-        return list;
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> op = new ArrayList<>();
+        solve(nums, 0, op, res);
+        return res;
     }
-    public void subset(int nums[],int index){
-        if(index==nums.length){
-            list.add(new ArrayList<>(help));
+    public void solve(int nums[], int start, List<Integer> op, List<List<Integer>> res){
+        if(nums.length == start){
+            res.add(new ArrayList<>(op));
             return;
         }
-        help.add(nums[index]);
-        subset(nums, index + 1);
-        help.remove(help.size()-1);
-        subset(nums,index+1);
+        solve(nums, start + 1, op, res);
+        op.add(nums[start]);
+        solve(nums, start + 1, op, res);
+        op.remove(op.size() - 1);
     }
 }
