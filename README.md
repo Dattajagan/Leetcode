@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Dattajagan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Dattajagan/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Dattajagan/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Dattajagan/Leetcode/tree/master/0078-subsets) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dattajagan/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Dattajagan/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Array
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Dattajagan/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dattajagan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dattajagan/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Dattajagan/Leetcode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Dattajagan/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Dattajagan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dattajagan/Leetcode/tree/master/0283-move-zeroes) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dattajagan/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Dattajagan/Leetcode/tree/master/0078-subsets) |
 ## Trie
 |  |
 | ------- |
