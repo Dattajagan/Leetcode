@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Dattajagan/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Dattajagan/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Dattajagan/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Dattajagan/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Dattajagan/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Dattajagan/Leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/Dattajagan/Leetcode/tree/master/0189-rotate-array) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Dattajagan/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dattajagan/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Dattajagan/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Dattajagan/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Dattajagan/Leetcode/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/Dattajagan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
