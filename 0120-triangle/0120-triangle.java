@@ -1,16 +1,17 @@
-import java.util.List;
-class Solution{
-    public int minimumTotal(List<List<Integer>>triangle){
-        for(int i=triangle.size()-2;i>=0;i--) {
-            List<Integer>crow=triangle.get(i);
-            List<Integer>nrow=triangle.get(i+1);
-            
-            for(int j=0;j<crow.size();j++){
-                int minpath=Math.min(nrow.get(j),nrow.get(j + 1));
-                crow.set(j,crow.get(j)+minpath);
-            }
-        }
-        
-        return triangle.get(0).get(0);
+class Solution {
+    public int minimumTotal(List<List<Integer>> triangle) {
+        int n = triangle.size();
+        int [][] dp =  new int [n][n];
+        for(int [] i: dp) Arrays.fill(i,-1);
+        return solve (0,0,n,triangle,dp);
+    }
+    int solve(int i, int j,int n, List<List<Integer>> triangle,int [][] dp){
+        if(i>=n||j>=n) return (int)(1e9);
+        if(i==n-1) return triangle.get(i).get(j);
+        if(dp[i][j]!=-1) return dp[i][j];
+        int down = triangle.get(i).get(j)+ solve(i+1,j,n,triangle,dp);
+        int diagonal = triangle.get(i).get(j)+ solve(i+1,j+1,n,triangle,dp);
+
+        return dp[i][j] = Math.min(down,diagonal);
     }
 }
