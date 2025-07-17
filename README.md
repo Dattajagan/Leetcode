@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/Dattajagan/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Dattajagan/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dattajagan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Dattajagan/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Dattajagan/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/Dattajagan/Leetcode/tree/master/3651-transformed-array) |
 ## Hash Table
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Dattajagan/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Dattajagan/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/Dattajagan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Dattajagan/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Binary Search
 |  |
 | ------- |
